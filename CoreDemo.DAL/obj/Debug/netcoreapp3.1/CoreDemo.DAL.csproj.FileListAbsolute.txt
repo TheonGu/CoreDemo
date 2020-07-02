@@ -1,0 +1,7 @@
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.DAL\bin\Debug\netcoreapp3.1\CoreDemo.DAL.deps.json
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.DAL\bin\Debug\netcoreapp3.1\CoreDemo.DAL.dll
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.DAL\bin\Debug\netcoreapp3.1\CoreDemo.DAL.pdb
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.DAL\obj\Debug\netcoreapp3.1\CoreDemo.DAL.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.DAL\obj\Debug\netcoreapp3.1\CoreDemo.DAL.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.DAL\obj\Debug\netcoreapp3.1\CoreDemo.DAL.dll
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.DAL\obj\Debug\netcoreapp3.1\CoreDemo.DAL.pdb

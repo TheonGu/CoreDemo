@@ -1,0 +1,8 @@
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Framework\bin\Debug\netcoreapp3.1\CoreDemo.Framework.deps.json
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Framework\bin\Debug\netcoreapp3.1\CoreDemo.Framework.dll
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Framework\obj\Debug\netcoreapp3.1\CoreDemo.Framework.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Framework\obj\Debug\netcoreapp3.1\CoreDemo.Framework.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Framework\bin\Debug\netcoreapp3.1\CoreDemo.Framework.pdb
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Framework\obj\Debug\netcoreapp3.1\CoreDemo.Framework.dll
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Framework\obj\Debug\netcoreapp3.1\CoreDemo.Framework.pdb
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Framework\obj\Debug\netcoreapp3.1\CoreDemo.Framework.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Common\bin\Debug\netcoreapp3.1\CoreDemo.Common.deps.json
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Common\bin\Debug\netcoreapp3.1\CoreDemo.Common.dll
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Common\bin\Debug\netcoreapp3.1\CoreDemo.Common.pdb
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Common\obj\Debug\netcoreapp3.1\CoreDemo.Common.csprojAssemblyReference.cache
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Common\obj\Debug\netcoreapp3.1\CoreDemo.Common.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Common\obj\Debug\netcoreapp3.1\CoreDemo.Common.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Common\obj\Debug\netcoreapp3.1\CoreDemo.Common.dll
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Common\obj\Debug\netcoreapp3.1\CoreDemo.Common.pdb

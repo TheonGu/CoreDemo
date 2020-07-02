@@ -1,0 +1,7 @@
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Model\bin\Debug\netcoreapp3.1\CoreDemo.Model.deps.json
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Model\bin\Debug\netcoreapp3.1\CoreDemo.Model.dll
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Model\bin\Debug\netcoreapp3.1\CoreDemo.Model.pdb
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Model\obj\Debug\netcoreapp3.1\CoreDemo.Model.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Model\obj\Debug\netcoreapp3.1\CoreDemo.Model.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Model\obj\Debug\netcoreapp3.1\CoreDemo.Model.dll
+C:\Users\Jesse\source\repos\CoreDemo\CoreDemo.Model\obj\Debug\netcoreapp3.1\CoreDemo.Model.pdb
